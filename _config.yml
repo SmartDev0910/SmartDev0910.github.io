@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://geminpak.github.io"
+url: "http://smartdev0910.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Gemin Pak
+title: Satoshi Akita
 
 # Short description of your site
-description: Computer Science Student
+description: Computer Science
 
 # --- Navigation bar options --- #
 
@@ -27,21 +27,20 @@ navbar-links:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
 #    - GitHub Pages: "https://pages.github.com/"
-  Resume: "https://geminpak.github.io/docs/Gemin_Resume.pdf"
+  Resume: "https://smartdev0910.github.io/docs/SatoshiAkita.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/Gemin_Pic.jpg"
+avatar: "/img/Satoshi.jpg"
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Gemin Pak
-  email: "pakg@seattleu.com"
-  facebook: gemin.pak  # eg. daattali
-  github: geminpak    # eg. daattali
+  name: Satoshi Akita
+  email: "satoshiakita910@gmail.com"
+  github: smartdev0910    # eg. daattali
   twitter: yourname   # eg. daattali
   linkedin: yourname  # eg. daattali
   xing: yourname      # eg. daattali
@@ -71,7 +70,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "geminpak.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "smartdev0910.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
@@ -84,7 +83,7 @@ url-pretty: "geminpak.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: ""
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
